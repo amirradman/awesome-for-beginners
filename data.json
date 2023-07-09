@@ -13,7 +13,7 @@
     },
     "repositories": [
         {
-            "name": "MvvmCross",
+            "name": "a",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
             "technologies": [
